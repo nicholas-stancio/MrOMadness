@@ -1,6 +1,6 @@
 # About Me
 
-3rd-year student at Prasetiya Mulya University with [Computer Systems Engineering](https://www.prasetiyamulya.ac.id/en/undergraduate-programs/s1-computer-systems-engineering/) Major <br>
+final year student at Prasetiya Mulya University with [Computer Systems Engineering](https://www.prasetiyamulya.ac.id/en/undergraduate-programs/s1-computer-systems-engineering/) Major <br>
 
 If you are interested, here is my profile:
 - Linkedin: [https://www.linkedin.com/in/nicholas-stancio-saka/](https://www.linkedin.com/in/nicholas-stancio-saka/)
